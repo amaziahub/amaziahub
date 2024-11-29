@@ -38,6 +38,26 @@
 
 ### Fun Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amaziagur&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" alt="amaziagur" /></p>
+<a href="https://github.com/amaziahub/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amaziahub&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" />
+</a>
+<a href="https://github.com/amaziahub/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaziahub&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=8&card_width=320" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaziagur&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=10&card_width=325" alt="amaziagur" /></p>
+
+<div>
+   <br>
+   <p><b>Note</b>: Some of my contributions and projects are on my former GitHub account <a href="https://github.com/amaziagur">amaziagur</a></p>
+   <a href="https://github.com/amaziahub/github-readme-stats">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=amaziagur&rank_icon=github&show_icons=true&theme=swift&include_all_commits=true" />
+   </a>
+   <a href="https://github.com/amaziahub/convoychat">
+     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaziagur&show_icons=true&locale=en&layout=compact&theme=swift&langs_count=6&card_width=320" />
+   </a>
+   <br>
+ </div>
+
+
+
+
